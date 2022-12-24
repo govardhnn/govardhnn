@@ -5,7 +5,7 @@ Hi, I'm Govardhan, a Final Year B.Tech ECE student from PES University, RR Banga
 I'm interested in Digital Design and Computer Architecture, and the highlights of my work are:
 
 * Built [Farmbot](https://github.com/govardhnn/farmbot-pesu), during my time interning at Center for IOT, PESU.
-* Worked on 'Hardware Accelerator for data sorting' for my Final Year Capstone Project, in the process of publication in a Journal.
+* Worked on ***'Hardware Accelerator for data sorting'*** for my Final Year Capstone Project, in the process of publication in a Journal.
 * I'm certified with 8 Cadence Digital Badges for the Digital Design flow. [Link to my badges](https://www.credly.com/users/sai-govardhan/badges)
 * Was the Teaching Assistant for the Digital Systems Design course (UE20EC313) for a class of 190+ students, 
 with responsiblities of teaching advanced VLSI concepts on the Cadence Tools and providing projects for implementation and evaluation.\
