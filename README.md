@@ -15,11 +15,11 @@ with responsiblities of teaching advanced VLSI concepts on the Cadence Tools and
 
 My Awards:
 * Won 2nd place at the Hackezee Hackathon (April 2021) for the project- Gesture Controlled Rescue Vehicle in the event organized by the ECE Department PESU. 
-* Won 3rd place at the Gutsy Entrepreneur Contest (August 2020) for the EmoBuild business idea, an event organized by the Centre of Innovation and Entrepreneurship-PESU. 
-* Won 2nd place at Pioneer (June 2020) at the Business Modelling Contest organized by the Centre of Innovation and Entrepreneurship-PESU.
+* Won 3rd place at the Gutsy Entrepreneur Contest (August 2020) for the EmoBuild business idea, an event organized by the Centre of Innovation and Entrepreneurship PESU. 
+* Won 2nd place at Pioneer (June 2020) at the Business Modelling Contest organized by the Centre of Innovation and Entrepreneurship PESU.
 >
 My other projects:
-* [PESU Student Support Platform](ssp.pes.edu) – Proposed and helped build: ssp.pes.edu in the 1st semester.
+* [PESU Student Support Platform](ssp.pes.edu)  Proposed and helped build: ssp.pes.edu in the 1st semester.
 
 
 
