@@ -10,17 +10,16 @@ I'm currently interested in **Digital Design** and **Computer Architecture**, an
 * Worked on ***'Hardware Accelerator for data sorting'*** for my Final Year Capstone Project, in the process of publication in a Journal.
 #### Digital System Design
 * I'm certified with 8 Cadence Digital Badges for the Digital Design flow. ([Link to my badges](https://www.credly.com/users/sai-govardhan/badges))
-* Was the Teaching Assistant for the Digital Systems Design course (UE20EC313) for a class of 190+ students, 
-with responsiblities of teaching advanced VLSI concepts on the Cadence Tools and providing projects for implementation and evaluation.\
+* Was the Teaching Assistant for the Digital Systems Design course (UE20EC313) for a class of 190+ students\
   ([Compliation of the AHP resources](https://github.com/govardhnn/DSD_AHP))
   ([Compilation of Cadence Tools commands](http://bit.ly/cadencelabpesu))
 <!---#### Computer Architecture--->
 
 
 #### My Awards
-* Won 2nd place at the Hackezee Hackathon (April 2021) for the project- Gesture Controlled Rescue Vehicle in the event organized by the ECE Department PESU. 
-* Won 3rd place at the Gutsy Entrepreneur Contest (August 2020) for the EmoBuild business idea, an event organized by the Centre of Innovation and Entrepreneurship PESU. 
-* Won 2nd place at Pioneer (June 2020) at the Business Modelling Contest organized by the Centre of Innovation and Entrepreneurship PESU.
+* Won 2nd place at the Hackezee Hackathon (April 2021) for - Gesture Controlled Rescue Vehicle in the event organized by the ECE Department PESU. 
+* Won 3rd place at the Gutsy Entrepreneur Contest (August 2020) for EmoBuild, in an event organized by the CIE PESU. 
+* Won 2nd place at Pioneer (June 2020) at the Business Modelling Contest organized by the CIE PESU.
 >
 #### My other projects:
 * [PESU Student Support Platform](ssp.pes.edu): Proposed and helped build: ssp.pes.edu in the 1st semester.
