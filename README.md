@@ -4,8 +4,7 @@
 Hi, I'm Govardhan, a Final Year B.Tech ECE student from PES University, RR Bangalore, with a VLSI Specialisation. \
 I'm currently interested in **Digital Design** and **Computer Architecture**, and the highlights of my work are:
 
-#### IOT
-* Built [Farmbot](https://github.com/govardhnn/farmbot-pesu), during my time interning at Center for IOT, PESU.
+<!---#### Computer Architecture--->
 #### Hardware Accelerator Design 
 * Worked on ***'Hardware Accelerator for data sorting'*** for my Final Year Capstone Project, in the process of publication in a Journal.
 #### Digital System Design
@@ -13,8 +12,8 @@ I'm currently interested in **Digital Design** and **Computer Architecture**, an
 * Was the Teaching Assistant for the Digital Systems Design course (UE20EC313) for a class of 190+ students\
   ([Compliation of the AHP resources](https://github.com/govardhnn/DSD_AHP))
   ([Compilation of Cadence Tools commands](http://bit.ly/cadencelabpesu))
-<!---#### Computer Architecture--->
-
+#### IOT
+* Built [Farmbot](https://github.com/govardhnn/farmbot-pesu), during my time interning at Center for IOT, PESU.
 
 #### My Awards
 * Won 2nd place at the Hackezee Hackathon (April 2021) for - Gesture Controlled Rescue Vehicle in the event organized by the ECE Department PESU. 
