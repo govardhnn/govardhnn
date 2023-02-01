@@ -2,7 +2,7 @@
 [Linkedin: @saigovardhan](https://www.linkedin.com/in/saigovardhan/) | [Email: saigov14@gmail.com](mailto:saigov14@gmail.com), [saigovardhanmc@pesu.pes.edu](mailto:saigovardhanmc@pesu.pes.edu)
 >
 Hi, I'm Govardhan, a Final Year B.Tech ECE student from PES University, RR Bangalore, with a VLSI Specialisation. \
-I am a VLSI design intern and AI Hardware research intern with interests in **Digital Design** and **Computer Architecture**.
+I am a VLSI design intern and AI Hardware research intern with interests in **Digital Design** and **Computer Architecture**. \
 The highlights of my work are:
 
 <!---#### Computer Architecture--->
