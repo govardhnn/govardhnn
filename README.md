@@ -1,5 +1,5 @@
 # Sai Govardhan
-[Personal Homepage](https://govardhnn.github.io) | \
+[govardhnn.github.io](https://govardhnn.github.io) \
 [Linkedin: @saigovardhan](https://www.linkedin.com/in/saigovardhan/) | [Email: saigov14@gmail.com](mailto:saigov14@gmail.com), [saigovardhanmc@pesu.pes.edu](mailto:saigovardhanmc@pesu.pes.edu)
 >
 Hi, I'm Govardhan, a Final Year B.Tech ECE student from PES University, RR Bangalore, with a VLSI Specialisation. \
