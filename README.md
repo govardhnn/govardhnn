@@ -7,8 +7,11 @@ I am a VLSI design intern and AI Hardware research intern with interests in **Di
 The highlights of my work are:
 
 <!---#### Computer Architecture--->
+#### Computer Architecture
+* (Ongoing) Designing a [Single Cycle RISC-V Processor in Verilog](https://github.com/govardhnn/RISC_V_Single_Cycle_Processor.git)
+
 #### Hardware Accelerator Design 
-* Worked on ***'Hardware Accelerator for data sorting'*** for my Final Year Capstone Project, in the process of publication in a Journal.
+* Worked on ***'Hardware Accelerator for data sorting'*** for my Final Year Capstone Project, in the process of publication.
 #### Digital System Design
 * I'm certified with 8 Cadence Digital Badges for the Digital Design flow. ([Link to my badges](https://www.credly.com/users/sai-govardhan/badges))
 * Was the Teaching Assistant for the Digital Systems Design course (UE20EC313) for a class of 190+ students\
