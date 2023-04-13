@@ -1,6 +1,5 @@
 # Sai Govardhan
-[Personal Website](https://govardhnn.github.io) | [Linkedin](https://www.linkedin.com/in/saigovardhan/) 
-Email: [saigov14@gmail.com](mailto:saigov14@gmail.com), [saigovardhanmc@pesu.pes.edu](mailto:saigovardhanmc@pesu.pes.edu)
+[Personal Website](https://govardhnn.github.io) | [Linkedin](https://www.linkedin.com/in/saigovardhan/) | Email: [saigov14@gmail.com](mailto:saigov14@gmail.com) or [saigovardhanmc@pesu.pes.edu](mailto:saigovardhanmc@pesu.pes.edu)
 >
 Hi, I'm a B.Tech ECE senior from PESU, Bangalore with a VLSI Specialisation and a passion for Digital Design and Computer Architecture. \
 I'm currently working at the Computational Sciences Labs - IIIT Bangalore and am also a part of the FPGA Design group at [CIE PESU](https://github.com/CIE-PESU) \
@@ -29,5 +28,5 @@ A comprehensive compilation of all Functional and Formal [Verification](https://
 
 #### Other Projects
 * Built [Farmbot](https://github.com/govardhnn/farmbot-pesu), during my time interning at Centre for IOT, PESU.
-* Proposed and built the [PESU Student Support Platform](https://ssp.pes.edu) 1st semester.
+* Proposed and built the [PESU Student Support Platform](https://ssp.pes.edu).
 
