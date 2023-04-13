@@ -1,36 +1,33 @@
 # Sai Govardhan
-Personal Website: [govardhnn.github.io](https://govardhnn.github.io) \
-[Linkedin: @saigovardhan](https://www.linkedin.com/in/saigovardhan/) | [Email: saigov14@gmail.com](mailto:saigov14@gmail.com), [saigovardhanmc@pesu.pes.edu](mailto:saigovardhanmc@pesu.pes.edu)
+[Personal Website](https://govardhnn.github.io) | [Linkedin](https://www.linkedin.com/in/saigovardhan/) 
+Email: [saigov14@gmail.com](mailto:saigov14@gmail.com), [saigovardhanmc@pesu.pes.edu](mailto:saigovardhanmc@pesu.pes.edu)
 >
-Hi, I'm Govardhan, a Final Year B.Tech ECE student from PES University, RR Bangalore, with a VLSI Specialisation. \
-I am a VLSI design intern and AI Hardware research intern with interests in **Digital Design** and **Computer Architecture**. \
+Hi, I'm a B.Tech ECE senior from PESU, Bangalore with a VLSI Specialisation and a passion for Digital Design and Computer Architecture. \
+I'm currently working at the Computational Sciences Labs - IIIT Bangalore and am also a part of the FPGA Design group at [CIE PESU](https://github.com/CIE-PESU) \
 The highlights of my work are:
 
-<!---#### Computer Architecture--->
 #### Computer Architecture
-* (Ongoing) Designing a [Single Cycle RISC-V Processor in Verilog](https://github.com/govardhnn/RISC_V_Single_Cycle_Processor.git)
-* Collating a list of [RISC-V Assembly level Programs](https://github.com/govardhnn/RISC_V_Assembly_Programs)
-#### Hardware Accelerator Design 
-* Worked on ***'Hardware Accelerator for data sorting'*** for my Final Year Capstone Project, in the process of publication.
-#### Digital System Design
+* [Single Cycle RISC-V Processor](https://github.com/govardhnn/RISC_V_Single_Cycle_Processor.git) in Verilog
+* [RISC-V Assembly level Programs](https://github.com/govardhnn/RISC_V_Assembly_Programs)
+
+#### Digital Design
+* Designed a **'Hardware Accelerator for Data Sorting'** for my Final Year Capstone Project, in the process of publication.
+* [Neuromorphic Designs](https://github.com/govardhnn/Neuromorphic_designs) from my internship at the Computational Sciences Labs - IIIT Bangalore
 * I'm certified with 8 Cadence Digital Badges for the Digital Design flow. ([Link to my badges](https://www.credly.com/users/sai-govardhan/badges))
-* Was the Teaching Assistant for the Digital Systems Design course (UE20EC313) for a class of 190+ students\
-  ([Compliation of the AHP resources](https://github.com/govardhnn/DSD_AHP))
-  ([Compilation of Cadence Tools commands](http://bit.ly/cadencelabpesu))
-#### IOT
-* Built [Farmbot](https://github.com/govardhnn/farmbot-pesu), during my time interning at Center for IOT, PESU.
 
-#### My Awards
-* Won 2nd place at the Hackezee Hackathon (April 2021) for - Gesture Controlled Rescue Vehicle in the event organized by the ECE Department PESU. 
-* Won 3rd place at the Gutsy Entrepreneur Contest (August 2020) for EmoBuild, in an event organized by the CIE PESU. 
-* Won 2nd place at Pioneer (June 2020) at the Business Modelling Contest organized by the CIE PESU.
->
-#### My other projects:
-* [PESU Student Support Platform](ssp.pes.edu): Proposed and helped build: ssp.pes.edu in the 1st semester.
+#### Verification
+A comprehensive compilation of all Functional and Formal [Verification](https://github.com/govardhnn/Verification) concepts on SystemVerilog
 
+#### Processor Benchmarking
+[SPEC CPU 2017](https://github.com/govardhnn/SPEC_CPU_2017) | [MLPerf](https://github.com/govardhnn/MLPerf)
 
+#### My PES Student Teaching Assistant resources 
+(Please mail me at saigovardhanmc@pesu.pes.edu for any additional resources, only if you're a student from one of the below courses)
+* [Embedded Firmware Development with UEFI](https://github.com/govardhnn/UEFI_AHP)
+* Synthesis, Physical Design and Timing Analysis of  Digital Circuits (Manual: [bit.ly/mentorlabpesu](https://bit.ly/mentorlabpesu))
+* [Digital System Design](https://github.com/govardhnn/DSD_AHP) (Manual: [bit.ly/cadencelabpesu](https://bit.ly/cadencelabpesu))
 
-<!---
-govardhnn/govardhnn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#### Other Projects
+* Built [Farmbot](https://github.com/govardhnn/farmbot-pesu), during my time interning at Centre for IOT, PESU.
+* Proposed and built the [PESU Student Support Platform](https://ssp.pes.edu) 1st semester.
+
