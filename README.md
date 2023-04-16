@@ -7,6 +7,7 @@ The highlights of my work are:
 
 #### Computer Architecture
 * [Single Cycle RISC-V Processor](https://github.com/govardhnn/RISC_V_Single_Cycle_Processor.git) 
+* [VeriRISC CPU](https://github.com/govardhnn/VeriRiscCPU)
 * [RISC-V Assembly level Programs](https://github.com/govardhnn/RISC_V_Assembly_Programs)
 
 #### Digital Design
