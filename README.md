@@ -5,15 +5,14 @@ Hi, I'm a B.Tech ECE senior from PESU, Bangalore with a VLSI Specialisation and 
 I'm currently working at the Computational Sciences Labs - IIIT Bangalore and am also a part of the FPGA Design group at [CIE PESU](https://github.com/CIE-PESU) \
 The highlights of my work are:
 
-#### Computer Architecture
-* [Single Cycle RISC-V Processor](https://github.com/govardhnn/RISC_V_Single_Cycle_Processor.git) 
-<!-- * [VeriRISC CPU](https://github.com/govardhnn/VeriRiscCPU) -->
-* [RISC-V Assembly level Programs](https://github.com/govardhnn/RISC_V_Assembly_Programs)
-
 #### Digital Design
 * Designed a **'Hardware Accelerator for Data Sorting'** for my Final Year Capstone Project, in the process of publication.
 * [Neuromorphic Designs](https://github.com/govardhnn/Neuromorphic_designs) from my internship at the Computational Sciences Labs - IIIT Bangalore
 * I'm certified with 8 Cadence Digital Badges for the Digital Design flow. ([Link to my badges](https://www.credly.com/users/sai-govardhan/badges))
+
+#### Computer Architecture
+* [Single Cycle RISC-V Processor](https://github.com/govardhnn/RISC_V_Single_Cycle_Processor.git) 
+* [RISC-V Assembly level Programs](https://github.com/govardhnn/RISC_V_Assembly_Programs)
 
 #### Verification
 A comprehensive compilation of all Functional and Formal [Verification](https://github.com/govardhnn/Verification) concepts on SystemVerilog
@@ -31,3 +30,4 @@ A comprehensive compilation of all Functional and Formal [Verification](https://
 * Built [Farmbot](https://github.com/govardhnn/farmbot-pesu), during my time interning at Centre for IOT, PESU.
 * Proposed and built the [PESU Student Support Platform](https://ssp.pes.edu).
 
+<!-- * [VeriRISC CPU](https://github.com/govardhnn/VeriRiscCPU) -->
