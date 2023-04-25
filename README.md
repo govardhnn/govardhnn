@@ -6,7 +6,7 @@ I'm currently working at the Computational Sciences Labs - IIIT Bangalore and am
 The highlights of my work are:
 
 #### Digital Design
-* Designed a **'Hardware Accelerator for Data Sorting'** for my Final Year Capstone Project, in the process of publication.
+* Designed a **'Hardware Accelerator for Multidimensional Data Sorting'** for my Final Year Capstone Project, in the process of publication.
 * [Neuromorphic Designs](https://github.com/govardhnn/Neuromorphic_designs) from my internship at the Computational Sciences Labs - IIIT Bangalore
 * I'm certified with 8 Cadence Digital Badges for the Digital Design flow. ([Link to my badges](https://www.credly.com/users/sai-govardhan/badges))
 
