@@ -3,7 +3,7 @@
 >
 Hi, I'm a B.Tech ECE senior from PESU, Bangalore with a VLSI Specialisation and a passion for Digital Design and Computer Architecture. \
 I'm currently working at the Computational Sciences Labs - IIIT Bangalore and am also a part of the FPGA Design group at [CIE PESU](https://github.com/CIE-PESU) \
-I previously worked as an Electronics Intern at OrbitAID Aerospace, IISC.
+I previously worked as an Electronics Intern at OrbitAID Aerospace, IISC. \
 The highlights of my work are:
 
 #### Digital Design
