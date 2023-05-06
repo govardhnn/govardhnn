@@ -11,14 +11,15 @@ The highlights of my work are:
 * I'm certified with 8 Cadence Digital Badges for the Digital Design flow. ([Link to my badges](https://www.credly.com/users/sai-govardhan/badges))
 
 #### Computer Architecture
-* [Single Cycle RISC-V Processor](https://github.com/govardhnn/RISC_V_Single_Cycle_Processor.git) 
-* [RISC-V Assembly level Programs](https://github.com/govardhnn/RISC_V_Assembly_Programs)
+* [RISC_V_Pipelined_Processor](https://github.com/govardhnn/RISC_V_Pipelined_Processor) (ongoing)
+* [Single Cycle RISC-V Processor](https://github.com/govardhnn/RISC_V_Single_Cycle_Processor) 
+* [RISC-V Assembly level Programs](https://github.com/govardhnn/RISC_V_Assembly_Programs) (ongoing)
 
 #### Verification
 A comprehensive compilation of all Functional and Formal [Verification](https://github.com/govardhnn/Verification) concepts on SystemVerilog
 
 #### Processor Benchmarking
-[SPEC CPU 2017](https://github.com/govardhnn/SPEC_CPU_2017) | [MLPerf](https://github.com/govardhnn/MLPerf)
+[SPEC CPU 2017](https://github.com/govardhnn/SPEC_CPU_2017) | [MLPerf](https://github.com/govardhnn/MLPerf) (ongoing)
 
 #### My PES Student Teaching Assistant resources 
 (Please mail me at saigovardhanmc@pesu.pes.edu for any additional resources, only if you're a student from one of the below courses)
