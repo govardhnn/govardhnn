@@ -7,7 +7,7 @@ The highlights of my work are:
 
 #### Digital Design
 * Designed [Low Power Hardware Accelerators for Multidimensional Data Sorting](https://github.com/govardhnn/Low_Power_Multidimensional_Sorters) for my B.Tech Capstone Project at PES University <br> Our paper is accepted at IEEE CONECCT and the code will be made public after publication
-* [Neuromorphic Designs](https://github.com/govardhnn/Neuromorphic_designs) from my internship at the Computational Sciences Labs - IIIT Bangalore
+* [Neuromorphic Computing](https://github.com/govardhnn/Neuromorphic_Computing) from my internship at the Computational Sciences Labs - IIIT Bangalore (ongoing)
 * I'm certified with 8 Cadence Digital Badges for the Digital Design flow. ([Link to my badges](https://www.credly.com/users/sai-govardhan/badges))
 
 #### Computer Architecture
