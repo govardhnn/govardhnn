@@ -11,15 +11,15 @@ The highlights of my work are:
 * I'm certified with 8 Cadence Digital Badges for the Digital Design flow. ([Link to my badges](https://www.credly.com/users/sai-govardhan/badges))
 
 #### Computer Architecture
-* [RISC_V_Pipelined_Processor](https://github.com/govardhnn/RISC_V_Pipelined_Processor) (ongoing)
+* [RISC_V_Pipelined_Processor](https://github.com/govardhnn/RISC_V_Pipelined_Processor) 
 * [Single Cycle RISC-V Processor](https://github.com/govardhnn/RISC_V_Single_Cycle_Processor) 
-* [RISC-V Assembly level Programs](https://github.com/govardhnn/RISC_V_Assembly_Programs) (ongoing)
+
 
 #### Verification
 A comprehensive compilation of all Functional and Formal [Verification](https://github.com/govardhnn/Verification) concepts on SystemVerilog
 
 #### Processor Benchmarking
-[SPEC CPU 2017](https://github.com/govardhnn/SPEC_CPU_2017) | [MLPerf](https://github.com/govardhnn/MLPerf) (ongoing)
+[SPEC CPU 2017](https://github.com/govardhnn/SPEC_CPU_2017) 
 
 #### My PES Student Teaching Assistant resources 
 (Please mail me at saigovardhanmc@pesu.pes.edu for any additional resources, only if you're a student from one of the below courses)
@@ -31,4 +31,10 @@ A comprehensive compilation of all Functional and Formal [Verification](https://
 * Built [Farmbot](https://github.com/govardhnn/farmbot-pesu), during my time interning at Centre for IOT, PESU.
 * Proposed and built the [PESU Student Support Platform](https://ssp.pes.edu).
 
-<!-- * [VeriRISC CPU](https://github.com/govardhnn/VeriRiscCPU) -->
+<!-- * [VeriRISC CPU](https://github.com/govardhnn/VeriRiscCPU)
+ 
+* [RISC-V Assembly level Programs](https://github.com/govardhnn/RISC_V_Assembly_Programs) 
+
+| [MLPerf](https://github.com/govardhnn/MLPerf) (ongoing)
+
+-->
