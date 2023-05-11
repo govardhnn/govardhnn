@@ -11,9 +11,10 @@ The highlights of my work are:
 * I'm certified with 8 Cadence Digital Badges for the Digital Design flow. ([Link to my badges](https://www.credly.com/users/sai-govardhan/badges))
 
 #### Computer Architecture
-* [RISC_V_Pipelined_Processor](https://github.com/govardhnn/RISC_V_Pipelined_Processor) 
-* [Single Cycle RISC-V Processor](https://github.com/govardhnn/RISC_V_Single_Cycle_Processor) 
 
+* [Single Cycle RISC-V Processor](https://github.com/govardhnn/RISC_V_Single_Cycle_Processor) 
+* [RISC-V Assembly level Programs](https://github.com/govardhnn/RISC_V_Assembly_Programs) 
+* [VeriRISC CPU](https://github.com/govardhnn/VeriRiscCPU)
 
 #### Verification
 A comprehensive compilation of all Functional and Formal [Verification](https://github.com/govardhnn/Verification) concepts on SystemVerilog
@@ -32,7 +33,7 @@ A comprehensive compilation of all Functional and Formal [Verification](https://
 * Proposed and built the [PESU Student Support Platform](https://ssp.pes.edu).
 
 <!-- * [VeriRISC CPU](https://github.com/govardhnn/VeriRiscCPU)
- 
+* [RISC_V_Pipelined_Processor](https://github.com/govardhnn/RISC_V_Pipelined_Processor) <ongoing>
 * [RISC-V Assembly level Programs](https://github.com/govardhnn/RISC_V_Assembly_Programs) 
 
 | [MLPerf](https://github.com/govardhnn/MLPerf) (ongoing)
