@@ -17,7 +17,7 @@ The highlights of my work are:
 * [VeriRISC CPU](https://github.com/govardhnn/VeriRiscCPU)
 
 #### Verification
-A comprehensive compilation of all Functional and Formal [Verification](https://github.com/govardhnn/Verification) concepts on SystemVerilog
+< ongoing > A comprehensive compilation of all Functional and Formal [Verification](https://github.com/govardhnn/Verification) concepts on SystemVerilog
 
 #### Processor Benchmarking
 [SPEC CPU 2017](https://github.com/govardhnn/SPEC_CPU_2017) 
