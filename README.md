@@ -14,7 +14,8 @@ The highlights of my work are:
 
 * [Single Cycle RISC-V Processor](https://github.com/govardhnn/RISC_V_Single_Cycle_Processor) 
 * [RISC-V Assembly level Programs](https://github.com/govardhnn/RISC_V_Assembly_Programs) 
-* [VeriRISC CPU](https://github.com/govardhnn/VeriRiscCPU)
+* [VeriRISC CPU](https://github.com/govardhnn/VeriRiscCPU) based on the Cadence VLA 26.0 course
+* I've recieved the NPTEL Online Certification for the Advanced Computer Architecture course
 
 #### Verification
 < ongoing > A comprehensive compilation of all Functional and Formal [Verification](https://github.com/govardhnn/Verification) concepts on SystemVerilog
