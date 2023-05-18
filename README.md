@@ -7,14 +7,12 @@ The highlights of my work are:
 
 #### Digital Design
 * Designed [Low Power Hardware Accelerator for Multidimensional Data Sorting](https://github.com/govardhnn/Low_Power_Multidimensional_Sorters) using for my B.Tech Capstone Project at PES University <br> Our paper is accepted at IEEE CONECCT and the code will be made public after publication
-* [Neuromorphic Computing](https://github.com/govardhnn/Neuromorphic_Computing) from my internship at the Computational Sciences Labs - IIIT Bangalore (ongoing)
 * I'm certified with 8 Cadence Digital Badges for the Digital Design flow. ([Link to my badges](https://www.credly.com/users/sai-govardhan/badges))
 
 #### Computer Architecture
 
 * [Single Cycle RISC-V Processor](https://github.com/govardhnn/RISC_V_Single_Cycle_Processor) 
 * [RISC-V Assembly level Programs](https://github.com/govardhnn/RISC_V_Assembly_Programs) 
-* [VeriRISC CPU](https://github.com/govardhnn/VeriRiscCPU) based on the Cadence VLA 26.0 course
 * I've recieved the NPTEL Online Certification for the Advanced Computer Architecture course
 
 #### Verification
@@ -36,6 +34,8 @@ The highlights of my work are:
 <!-- * [VeriRISC CPU](https://github.com/govardhnn/VeriRiscCPU)
 * [RISC_V_Pipelined_Processor](https://github.com/govardhnn/RISC_V_Pipelined_Processor) <ongoing>
 * [RISC-V Assembly level Programs](https://github.com/govardhnn/RISC_V_Assembly_Programs) 
+* [Neuromorphic Computing](https://github.com/govardhnn/Neuromorphic_Computing) from my internship at the Computational Sciences Labs - IIIT Bangalore (ongoing)
+* [VeriRISC CPU](https://github.com/govardhnn/VeriRiscCPU) based on the Cadence VLA 26.0 course
 
 | [MLPerf](https://github.com/govardhnn/MLPerf) (ongoing)
 
