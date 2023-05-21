@@ -6,7 +6,7 @@ I'm currently working at the Computational Sciences Labs - IIIT Bangalore (Advis
 The highlights of my work are:
 
 #### Digital Design
-* Designed [Low Power Hardware Accelerator for Multidimensional Data Sorting](https://github.com/govardhnn/Low_Power_Multidimensional_Sorters) using for my B.Tech Capstone Project at PES University <br> Our paper is accepted at IEEE CONECCT and the code will be made public after publication
+* Designed [Low Power Hardware Accelerator for Multidimensional Data Sorting](https://github.com/govardhnn/Low_Power_Multidimensional_Sorters) for my B.Tech Capstone Project at PES University <br> Our paper is accepted at IEEE CONECCT and the code will be made public after publication
 * I'm certified with 8 Cadence Digital Badges for the Digital Design flow. ([Link to my badges](https://www.credly.com/users/sai-govardhan/badges))
 
 #### Computer Architecture
