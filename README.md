@@ -29,13 +29,14 @@ The highlights of my work are:
 
 #### Other Projects
 * Built [Farmbot](https://github.com/govardhnn/farmbot-pesu), during my time interning at Centre for IOT, PESU.
-* Proposed and built the [PESU Student Support Platform](https://ssp.pes.edu).
+
 
 <!-- * [VeriRISC CPU](https://github.com/govardhnn/VeriRiscCPU)
 * [RISC_V_Pipelined_Processor](https://github.com/govardhnn/RISC_V_Pipelined_Processor) <ongoing>
 * [RISC-V Assembly level Programs](https://github.com/govardhnn/RISC_V_Assembly_Programs) 
 * [Neuromorphic Computing](https://github.com/govardhnn/Neuromorphic_Computing) from my internship at the Computational Sciences Labs - IIIT Bangalore (ongoing)
 * [VeriRISC CPU](https://github.com/govardhnn/VeriRiscCPU) based on the Cadence VLA 26.0 course
+* Proposed and built the [PESU Student Support Platform](https://ssp.pes.edu).
 
 | [MLPerf](https://github.com/govardhnn/MLPerf) (ongoing)
 
