@@ -2,7 +2,7 @@
 [Personal Website](https://govardhnn.github.io) | [Linkedin](https://www.linkedin.com/in/saigovardhan/) | [Email](mailto:saigov14@gmail.com) 
 >
 Hi, I'm a ```CPU Design and Verification Intern``` at InCore Semiconductors. <br>
-I have completed my B Tech in ECE from PESU, Bangalore with a VLSI Specialisation and Digital Design and Computer Architecture. <br>
+I have completed my B Tech in ECE from PES University, Bangalore with a VLSI Specialisation and I'm passionate about Digital Design and Computer Architecture. <br>
 I have earlier worked as:
 * ``` VLSI Design Intern ``` at IIIT Bangalore (Advisor: Dr. G N Srinivasa Prasanna) 
 * ``` Hardware Accelerator Research Intern ``` at [CIE PESU](https://github.com/CIE-PESU) and also mentored the FPGA track of the CIE SWS. 
