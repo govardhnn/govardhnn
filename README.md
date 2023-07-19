@@ -1,16 +1,15 @@
 # Sai Govardhan
 [Personal Website](https://govardhnn.github.io) | [Linkedin](https://www.linkedin.com/in/saigovardhan/) | [Email](mailto:saigov14@gmail.com) 
 >
-Hi, I'm a ```CPU Design and Verification Intern``` at InCore Semiconductors. <br>
-I have completed my B Tech in ECE from PES University, Bangalore with a VLSI Specialisation and I'm passionate about Digital Design and Computer Architecture. <br>
-I have earlier worked as:
+Hi, I'm a ```CPU Design and Verification Intern``` at InCore Semiconductors. <br><br>
+I have completed my B Tech in Electronics and Communication from PES University, Bangalore with a VLSI Specialisation and have worked as:
 * ``` VLSI Design Intern ``` at IIIT Bangalore (Advisor: Dr. G N Srinivasa Prasanna) 
 * ``` Hardware Accelerator Research Intern ``` at [CIE PESU](https://github.com/CIE-PESU) and also mentored the FPGA track of the CIE SWS. 
 * ``` Electronics Research Intern ``` at OrbitAID Aerospace, IISC.
 * ``` Project Intern - Farmbot ``` at Center for IoT, PESU
 >
 The highlights of my work are:
-
+<br>
 #### Digital Design
 * Designed [Low Power Hardware Accelerator for Multidimensional Data Sorting](https://github.com/govardhnn/Low_Power_Multidimensional_Sorters) for my B Tech Capstone Project at PES University <br> Our paper has been presented at IEEE CONECCT
 * I'm certified with 8 Cadence Digital Badges for the Digital Design flow. ([Link to my badges](https://www.credly.com/users/sai-govardhan/badges))
