@@ -20,9 +20,10 @@ The highlights of my work are:
 * [RISC-V Assembly level Programs](https://github.com/govardhnn/RISC_V_Assembly_Programs) 
 * I've received the NPTEL Online Certification for the Advanced Computer Architecture course
 
-#### Guides to:
+#### Guides and Examples to:
 * Processor Benchmarking with [SPEC CPU 2017](https://github.com/govardhnn/SPEC_CPU_2017) 
 * [TCLish](https://github.com/govardhnn/TCLish) - a guide to TCL Scripting basics
+* [Bluespexamples](https://github.com/govardhnn/Bluespexamples), more like Bluespec examples
 
 #### My PES Student Teaching Assistant resources 
 (Please mail me at [saigovardhanmc@pesu.pes.edu](mailto:saigovardhanmc@pesu.pes.edu) for any doubts only if you're a student from one of the below courses)
