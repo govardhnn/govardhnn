@@ -11,7 +11,8 @@ I have completed my B Tech in Electronics and Communication from PES University,
 The highlights of my work are:
 <br>
 #### Digital Design
-* Designed [Low Power Hardware Accelerator for Multidimensional Data Sorting](https://github.com/govardhnn/Low_Power_Multidimensional_Sorters) for my B Tech Capstone Project at PES University <br> Our paper has been presented at IEEE CONECCT
+* Designed [Low Power Hardware Accelerator for Multidimensional Data Sorting](https://github.com/govardhnn/Low_Power_Multidimensional_Sorters) for my B Tech Capstone Project at PES University <br> 
+**[IEEE CONECCT: [Paper Link](https://ieeexplore.ieee.org/document/10234758)]**
 * I'm certified with 8 Cadence Digital Badges for the Digital Design flow. ([Link to my badges](https://www.credly.com/users/sai-govardhan/badges))
 
 #### Computer Architecture
