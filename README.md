@@ -1,30 +1,29 @@
 # Sai Govardhan
 [Personal Website](https://govardhnn.github.io) | [Linkedin](https://www.linkedin.com/in/saigovardhan/) | [Email](mailto:saigov14@gmail.com) 
 >
-Hi, I'm a ```CPU Design and Verification Intern``` at InCore Semiconductors. <br><br>
-I have completed my B Tech in Electronics and Communication from PES University, Bangalore with a VLSI Specialisation and have worked as:
-* ``` VLSI Design Intern ``` at IIIT Bangalore (Advisor: Dr. G N Srinivasa Prasanna) 
-* ``` Hardware Accelerator Research Intern ``` at [CIE PESU](https://github.com/CIE-PESU) and also mentored the FPGA track of the CIE SWS. 
-* ``` Electronics Research Intern ``` at OrbitAID Aerospace, IISC.
-* ``` Project Intern - Farmbot ``` at Center for IoT, PESU
+Hi, I'm a CPU Design and Verification Intern at [InCore Semiconductors](https://incoresemi.com/).
 >
-The highlights of my work are:
-<br>
+I completed my B Tech in Electronics and Communication from [PES University](https://pes.edu/), with a VLSI Specialization, Teaching Assistant experience for three core subjects, and eight Cadence Digital Badges for the 'Digital Design and Signoff' track. 
+
+I have earlier worked at IIITB, IISC (OrbitAID), CIE PESU and CIOT PESU.
+
 #### Digital Design
 * Designed [Low Power Hardware Accelerator for Multidimensional Data Sorting](https://github.com/govardhnn/Low_Power_Multidimensional_Sorters) for my B Tech Capstone Project at PES University <br> 
 **[IEEE CONECCT: [Paper Link](https://ieeexplore.ieee.org/document/10234758)]**
 * I'm certified with 8 Cadence Digital Badges for the Digital Design flow. ([Link to my badges](https://www.credly.com/users/sai-govardhan/badges))
-
+* Was the mentor for the FPGA Track at [CIE PESU](https://github.com/CIE-PESU)
+* [Bluespexamples](https://github.com/govardhnn/Bluespexamples), more like Bluespec Examples of Digital Designs.
+   
 #### Computer Architecture
 
 * [Single Cycle RISC-V Processor](https://github.com/govardhnn/RISC_V_Single_Cycle_Processor) 
 * [RISC-V Assembly level Programs](https://github.com/govardhnn/RISC_V_Assembly_Programs) 
 * I've received the NPTEL Online Certification for the Advanced Computer Architecture course
-
-#### Guides and Examples to:
-* Processor Benchmarking with [SPEC CPU 2017](https://github.com/govardhnn/SPEC_CPU_2017) 
+* Guide: Processor Benchmarking with [SPEC CPU 2017](https://github.com/CIE-PESU/DE10_FPGA)
+  
+#### Scripting:
 * [TCLish](https://github.com/govardhnn/TCLish) - a guide to TCL Scripting basics
-* [Bluespexamples](https://github.com/govardhnn/Bluespexamples), more like Bluespec examples
+
 
 #### My PES Student Teaching Assistant resources 
 (Please mail me at [saigovardhanmc@pesu.pes.edu](mailto:saigovardhanmc@pesu.pes.edu) for any doubts only if you're a student from one of the below courses)
