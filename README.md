@@ -1,5 +1,5 @@
 # Sai Govardhan
-[Personal Website](https://govardhnn.github.io) | [Linkedin](https://www.linkedin.com/in/saigovardhan/) | [Email](mailto:saigov14@gmail.com) 
+[CV](https://govardhnn.github.io/cv/govardhan_cv.pdf) | [Personal Website](https://govardhnn.github.io) | [Linkedin](https://www.linkedin.com/in/saigovardhan/) | [Email](mailto:saigov14@gmail.com) 
 >
 Hi, I'm a CPU Design and Verification Intern at [InCore Semiconductors](https://incoresemi.com/).
 >
