@@ -1,4 +1,4 @@
-== Sai Govardhan
+= Sai Govardhan
 
 https://govardhnn.github.io/cv/govardhan_cv.pdf[CV] |
 https://govardhnn.github.io[Personal Website] |
