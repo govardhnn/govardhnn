@@ -1,0 +1,64 @@
+== Sai Govardhan
+
+https://govardhnn.github.io/cv/govardhan_cv.pdf[CV] |
+https://govardhnn.github.io[Personal Website] |
+https://www.linkedin.com/in/saigovardhan/[Linkedin] |
+mailto:saigov14@gmail.com[Email] 
+
+Hi, I’m a CPU Design and Verification
+Intern at https://incoresemi.com/[InCore Semiconductors]. 
+I graduated B.Tech in Electronics and Communication from https://pes.edu/[PES
+University], with Teaching Assistant experience for three core subjects, eight Cadence Digital Badges for the
+`Digital Design and Signoff' track, and a VLSI Specialization.
+
+I have earlier worked at IIITB, IISC (OrbitAID), CIE PESU and CIOT PESU.
+
+=== Digital Design
+
+* Designed
+https://github.com/govardhnn/Low_Power_Multidimensional_Sorters[Low
+Power Hardware Accelerator for Multidimensional Data Sorting] for my B
+Tech Capstone Project at PES University *[IEEE CONECCT:
+https://ieeexplore.ieee.org/document/10234758[Paper Link]]*
+* I’m certified with 8 Cadence Digital Badges for the Digital Design
+flow. (https://www.credly.com/users/sai-govardhan/badges[Link to my
+badges])
+* Was the mentor for the FPGA Track at https://github.com/CIE-PESU[CIE
+PESU]
+* https://github.com/govardhnn/Bluespexamples[Bluespexamples], more like
+Bluespec Examples of Digital Designs.
+
+=== Computer Architecture
+
+* https://github.com/govardhnn/RISC_V_Single_Cycle_Processor[Single
+Cycle RISC-V Processor]
+* https://github.com/govardhnn/RISC_V_Assembly_Programs[RISC-V Assembly
+level Programs]
+* I’ve received the NPTEL Online Certification for the Advanced Computer
+Architecture course
+* Guide: Processor Benchmarking with
+https://github.com/CIE-PESU/DE10_FPGA[SPEC CPU 2017]
+
+=== Scripting:
+
+* https://github.com/govardhnn/TCLish[TCLish] - a guide to TCL Scripting
+basics
+
+=== My PES Student Teaching Assistant resources
+
+(Please mail me at saigovardhanmc@pesu.pes.edu for any doubts only if
+you’re a student from one of the below courses) 
+
+* https://github.com/govardhnn/UEFI_AHP[Embedded Firmware Development with
+UEFI] 
+
+* Synthesis, Physical Design, and Timing Analysis of Digital
+Circuits (Manual: https://bit.ly/mentorlabpesu[bit.ly/mentorlabpesu]) 
+
+* https://github.com/govardhnn/DSD_AHP[Digital System Design] (Manual:
+https://bit.ly/cadencelabpesu[bit.ly/cadencelabpesu])
+
+=== Other Projects
+
+* Built https://github.com/govardhnn/farmbot-pesu[Farmbot], during my
+time interning at Centre for IOT, PESU.
