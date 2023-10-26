@@ -37,7 +37,7 @@ level Programs]
 * I’ve received the NPTEL Online Certification for the Advanced Computer
 Architecture course
 * Guide: Processor Benchmarking with
-https://github.com/CIE-PESU/DE10_FPGA[SPEC CPU 2017]
+https://github.com/govardhnn/SPEC_CPU_2017[SPEC CPU 2017]
 
 === Scripting:
 
