@@ -23,7 +23,7 @@ I have earlier worked at IIITB, IISC (OrbitAID), CIE PESU and CIOT PESU.
 
 * https://github.com/govardhnn/RISC_V_Single_Cycle_Processor[Single Cycle RISC-V Processor]
 * https://github.com/govardhnn/RISC_V_Assembly_Programs[RISC-V Assembly level Programs]
-* I’ve received the NPTEL Online Certification for the Advanced Computer Architecture course
+* I’ve received the NPTEL Online Certification for Advanced Computer Architecture https://archive.nptel.ac.in/content/noc/NOC23/SEM1/Ecertificates/106/noc23-cs07/Course/NPTEL23CS07S5323401304248775.jpg[Certificate]
 * Guide: Processor Benchmarking with https://github.com/govardhnn/SPEC_CPU_2017[SPEC CPU 2017]
 
 === Scripting:
