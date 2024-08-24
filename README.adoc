@@ -14,7 +14,9 @@ I have earlier worked at IIITB, IISC (OrbitAID), CIE PESU and CIOT PESU.
 
 === Digital Design
 
-* Designed https://github.com/govardhnn/Low_Power_Multidimensional_Sorters[Low Power Hardware Accelerator for Multidimensional Data Sorting] for my B Tech Capstone Project at PES University *[IEEE CONECCT: https://ieeexplore.ieee.org/document/10234758[Paper Link]]* 
+* Designed https://github.com/govardhnn/Low_Power_Multidimensional_Sorters[Low Power Hardware Accelerator for Multidimensional Data Sorting] for my B Tech Capstone Project at PES University 
+    ** https://ieeexplore.ieee.org/document/10234758[Paper Link [IEEE CONECC]
+    ** I also redesigned the MDSA sorter in Bluespec System Verilog [https://github.com/govardhnn/Low_Power_Multidimensional_Sorters/tree/main/bsv[Link to the implementation]]. 
 * I’m certified with 8 Cadence Digital Badges for the Digital Design flow. (https://www.credly.com/users/sai-govardhan/badges[Link to my badges]) 
 * Was the mentor for the FPGA Track at https://github.com/CIE-PESU[CIE PESU]
 * https://github.com/govardhnn/Bluespexamples[Bluespexamples], more like Bluespec Examples of Digital Designs.
