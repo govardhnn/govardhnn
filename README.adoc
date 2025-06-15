@@ -7,10 +7,9 @@ mailto:sai.govardhan@incoresemi.com[Work Email] |
 mailto:saigov14@gmail.com[Personal Email] |
 https://www.goodreads.com/user/show/45335591-sai-govardhan[Goodreads]
 
-Hi, I’m a CPU uArch Design Engineer at https://incoresemi.com/[InCore Semiconductors]. 
+Hey, I am a Microarchitect at https://www.agranilabs.com/[Agrani Labs].
 
-I graduated B.Tech in Electronics and Communication from https://pes.edu/[PES University], with Teaching Assistant experience for three core subjects, eight Cadence Digital Badges for the Digital Design and Signoff track, and a VLSI Specialization.
-I have earlier worked at IIITB, IISC (OrbitAID), CIE PESU and CIOT PESU.
+Here are some links to my previous work:
 
 === Digital Design
 
